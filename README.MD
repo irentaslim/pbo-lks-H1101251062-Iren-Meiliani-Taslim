@@ -10,6 +10,6 @@
 - [X] Pertemuan 2 — Core OOP
 - [X] Pertemuan 3 — Framework & Routing
 - [X] Pertemuan 4 — Testing Backend
-- [ ] Pertemuan 5 — CRUD Kategori
-- [ ] Pertemuan 6 — Frontend
-- [ ] Pertemuan 7 — Integrasi & Finalisasi
+- [X] Pertemuan 5 — CRUD Kategori
+- [X] Pertemuan 6 — Frontend
+- [X] Pertemuan 7 — Integrasi & Finalisasi
